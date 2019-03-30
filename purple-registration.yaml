@@ -1,0 +1,15 @@
+id: f35e4e9bfc6323348bdde1aee3f9ef9e4e71691a4e7d39fc07f0845ea8786f9d
+hs_token: fe9ba3466bda85a47ea056fc228402c58ffd9e3920b7f0f995e9d5661b66ba59
+as_token: 1e07c6a930b79155a16092bce4ccd4e245985046d40e55ad91e64eb2c68e8684
+namespaces:
+  users:
+    - exclusive: true
+      regex: '@_xmpp_.*'
+  aliases:
+    - exclusive: true
+      regex: '#_purple_.*'
+  rooms: []
+url: 'http://localhost:9555'
+sender_localpart: _purple_bot
+rate_limited: true
+protocols: null
